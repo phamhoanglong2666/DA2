@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=XT-1
+Removed Pin From Net: NetName=NetC9_2 Pin=XT-2
+Removed Member From Class: ClassName=Sheet1 Member=XT
+Added Component: Designator=XT1(XT2)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_2 Pin=XT1-1
+Added Pin To Net: NetName=NetC9_2 Pin=XT1-2
+Added Member To Class: ClassName=Sheet1 Member=Component XT1 10Mhz
+Added Room: Name=Sheet1

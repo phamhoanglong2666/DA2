@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=VR1 NewDesignator=VR?
+Added Pin To Net: NetName=PB0 Pin=PB0-2
+Added Pin To Net: NetName=PB0 Pin=PB0-4
+Added Pin To Net: NetName=PB1 Pin=PB1-2
+Added Pin To Net: NetName=PB1 Pin=PB1-4
+Added Pin To Net: NetName=PB2 Pin=PB2-2
+Added Pin To Net: NetName=PB2 Pin=PB2-4
+Added Pin To Net: NetName=PB3 Pin=PB3-2
+Added Pin To Net: NetName=PB3 Pin=PB3-4
+Added Pin To Net: NetName=PB4 Pin=RESET-2
+Added Pin To Net: NetName=PB4 Pin=RESET-4
+Added Room: Name=Sheet1

@@ -1,0 +1,111 @@
+Added Component: Designator=C?(J8-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62000811821"; VariantName = "[No Variations]"
+Added Component: Designator=C?(J8-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62000811821"; VariantName = "[No Variations]"
+Added Component: Designator=C?(J5-C2T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx21121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62001021121"; VariantName = "[No Variations]"
+Added Component: Designator=C?(J8-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62000811821"; VariantName = "[No Variations]"
+Added Component: Designator=C?(J8-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62000811821"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(DIP40/W0.6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Atmega 16L"; VariantName = "[No Variations]"
+Added Component: Designator=LCD?(JP16-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LCD16x2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLabel24 Pin=C?-1
+Added Pin To Net: NetName=NetLabel24 Pin=IC?-40
+Added Net: Name=NetLabel24
+Added Pin To Net: NetName=NetLabel25 Pin=C?-2
+Added Pin To Net: NetName=NetLabel25 Pin=IC?-39
+Added Net: Name=NetLabel25
+Added Pin To Net: NetName=NetLabel26 Pin=C?-3
+Added Pin To Net: NetName=NetLabel26 Pin=IC?-38
+Added Net: Name=NetLabel26
+Added Pin To Net: NetName=NetLabel27 Pin=C?-4
+Added Pin To Net: NetName=NetLabel27 Pin=IC?-37
+Added Net: Name=NetLabel27
+Added Pin To Net: NetName=NetLabel28 Pin=C?-5
+Added Pin To Net: NetName=NetLabel28 Pin=IC?-36
+Added Net: Name=NetLabel28
+Added Pin To Net: NetName=NetLabel30 Pin=C?-6
+Added Pin To Net: NetName=NetLabel30 Pin=IC?-35
+Added Net: Name=NetLabel30
+Added Pin To Net: NetName=NetLabel31 Pin=C?-7
+Added Pin To Net: NetName=NetLabel31 Pin=IC?-34
+Added Net: Name=NetLabel31
+Added Pin To Net: NetName=NetLabel32 Pin=C?-8
+Added Pin To Net: NetName=NetLabel32 Pin=IC?-33
+Added Net: Name=NetLabel32
+Added Pin To Net: NetName=NetLabel33 Pin=C?-1
+Added Pin To Net: NetName=NetLabel33 Pin=IC?-29
+Added Net: Name=NetLabel33
+Added Pin To Net: NetName=NetLabel34 Pin=C?-2
+Added Pin To Net: NetName=NetLabel34 Pin=IC?-28
+Added Net: Name=NetLabel34
+Added Pin To Net: NetName=NetLabel36 Pin=C?-3
+Added Pin To Net: NetName=NetLabel36 Pin=IC?-27
+Added Net: Name=NetLabel36
+Added Pin To Net: NetName=NetLabel37 Pin=C?-4
+Added Pin To Net: NetName=NetLabel37 Pin=IC?-26
+Added Net: Name=NetLabel37
+Added Pin To Net: NetName=NetLabel38 Pin=C?-5
+Added Pin To Net: NetName=NetLabel38 Pin=IC?-25
+Added Net: Name=NetLabel38
+Added Pin To Net: NetName=NetLabel39 Pin=C?-6
+Added Pin To Net: NetName=NetLabel39 Pin=IC?-24
+Added Net: Name=NetLabel39
+Added Pin To Net: NetName=NetLabel40 Pin=C?-7
+Added Pin To Net: NetName=NetLabel40 Pin=IC?-23
+Added Net: Name=NetLabel40
+Added Pin To Net: NetName=NetLabel41 Pin=C?-8
+Added Pin To Net: NetName=NetLabel41 Pin=IC?-22
+Added Net: Name=NetLabel41
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

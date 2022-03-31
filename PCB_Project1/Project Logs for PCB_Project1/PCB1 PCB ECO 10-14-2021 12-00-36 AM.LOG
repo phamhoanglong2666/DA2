@@ -1,0 +1,26 @@
+Change Component Comment : Designator=SW1 Old Comment=SW New Comment=B1
+Change Component Comment : Designator=SW2 Old Comment=SW New Comment=B2
+Change Component Comment : Designator=SW3 Old Comment=SW New Comment=B3
+Change Component Comment : Designator=SW4 Old Comment=SW New Comment=B4
+Change Component Comment : Designator=SW5 Old Comment=SW New Comment=Reset
+Change Component Designator: OldDesignator=1k NewDesignator=R1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R28
+Change Component Designator: OldDesignator=SW1 NewDesignator=PB0
+Change Component Designator: OldDesignator=SW2 NewDesignator=PB1
+Change Component Designator: OldDesignator=SW3 NewDesignator=PB2
+Change Component Designator: OldDesignator=SW4 NewDesignator=PB3
+Change Component Designator: OldDesignator=SW5 NewDesignator=RESET
+Change Net Name : Old Net Name=Net1k_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetSW1_2 New Net Name=NetPB0_2
+Change Net Name : Old Net Name=NetSW2_2 New Net Name=NetPB1_2
+Change Net Name : Old Net Name=NetSW3_2 New Net Name=NetPB2_2
+Change Net Name : Old Net Name=NetSW4_2 New Net Name=NetPB3_2
+Change Net Name : Old Net Name=NetSW5_2 New Net Name=NetRESET_2
+Added Room: Name=Sheet1

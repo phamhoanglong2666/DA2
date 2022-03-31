@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=C7-1
+Removed Pin From Net: NetName=VCC Pin=IC2-9
+Change Component Designator: OldDesignator=VR? NewDesignator=VR1
+Added Component: Designator=R2(SM-1206)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=IC2-9
+Added Pin To Net: NetName=NetC7_1 Pin=R2-1
+Added Net: Name=NetC7_1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10k

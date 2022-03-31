@@ -1,0 +1,4 @@
+Added Component: Designator=VOL?(VOL-S)
+Add component (AddParameter): Name = "Value"; Value = "Volume 50k"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component VOL? 50K
+Added Room: Name=Sheet1

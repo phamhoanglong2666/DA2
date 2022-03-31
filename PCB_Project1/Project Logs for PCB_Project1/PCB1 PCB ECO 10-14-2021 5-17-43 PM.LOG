@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=MOSI Pin=J2-1
+Added Pin To Net: NetName=RESET Pin=J2-5
+Added Pin To Net: NetName=SCK Pin=J2-7
+Added Pin To Net: NetName=MISO Pin=J2-9
+Added Room: Name=Sheet1
